@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Movie MVVM</string>
+    <string name="connection_problem1">Connection Problem1!</string>
+    <string name="sub_title">Sub Title</string>
+    <string name="movie_info">Movie Info</string>
+    <string name="release_date">Release Date: </string>
+    <string name="_2019">2019</string>
+    <string name="rating">Rating: </string>
+    <string name="_8">8</string>
+    <string name="runtime">Runtime: </string>
+    <string name="_2_3_h">2.3 h</string>
+    <string name="budget">Budget: </string>
+    <string name="_130_000">130,000</string>
+    <string name="revenue">Revenue: </string>
+    <string name="overview">Overview</string>
+    <string name="overvie">Overvie.............</string>
+    <string name="_2021">2021</string>
+    <string name="t_detail">T DETAIL</string>
+    <string name="connection_problem">Connection Problem!!</string>
+    <string name="movie">Movie</string>
+    <string name="error_message">Error Message</string>
+</resources>
